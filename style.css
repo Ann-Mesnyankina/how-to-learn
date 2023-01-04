@@ -218,7 +218,7 @@
 .kaufman{
     background-color: #1f1f1f;
     overflow: hidden;
-    color: white ;
+    color: white;
     position: relative;
     z-index: 1;
     padding-bottom: 90px;
@@ -249,7 +249,7 @@
 .footer{
     background-color: #1f1f1f;
     min-height: 350px;
-    color:white ;
+    color:white;
     display: flex;
 }
 
@@ -320,13 +320,13 @@
 }
 
 .footer__column-link_VK{
-    margin-right: 10px; 
+    margin-right: 10px;
     width: 16px;
     height: 16px; 
 }
 
 .footer__column-link_TT{
-    margin-right: 10px; 
+    margin-right: 10px;
     width: 16px;
     height: 16px; 
 }
