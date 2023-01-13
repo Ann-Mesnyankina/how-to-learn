@@ -1,0 +1,11 @@
+.two-columns {
+    width: 80%;
+    justify-content: space-between;
+    display: flex;
+    align-items: baseline;
+    margin: 0 auto 0 auto;
+}
+
+.two-columns:nth-child(2) {
+    margin: 0;
+}
