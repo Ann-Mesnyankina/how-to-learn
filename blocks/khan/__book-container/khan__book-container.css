@@ -1,4 +1,6 @@
 .khan__book-container {
     margin-top: 68px;
-    position: relative;
+    display: grid;
+    grid-template-columns: 620px 630px;
+   
 }
